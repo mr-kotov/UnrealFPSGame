@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devops_ue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devops_ue/docs/Doxygen-Dark-Theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devops_ue/docs/Doxygen-Flat-Theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devops_ue/docs/Unreal-Engine-Doxygen-Filter" vcs="Git" />
   </component>
 </project>
